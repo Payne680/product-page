@@ -1,0 +1,15 @@
+.banner{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(128,0,128)), url(images/pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#banner{
+margin: 0 auto 0 auto;
+max-width:600px ;
+}
+.container{
+    background-color: rgba(0,0,0,0.5);
+} 
+.h1{
+    text-decoration-line: overline;
+}
