@@ -18,4 +18,16 @@ max-width:600px ;
     width: 450px;
     height: 25px;
     margin-bottom: 15px;
+
+}
+.form-group{
+    width:auto;
+}
+.input-textarea{
+    width: 400px;
+    padding:10%;
+}
+.submit-button{
+    width: 480px;
+    
 }
