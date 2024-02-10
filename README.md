@@ -10,8 +10,8 @@ I've been enjoying web development for the first time ever since I built my firs
 * 🖥️  See my portfolio at [Penn](http://github.com/Payne680)
 * ✉️  You can contact me at [pennjunior680@gmail.com](mailto:pennjunior680@gmail.com)
 * 🧠  I'm learning PHP and Python
-* 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  I love gaming
+* 🤝  I'm open to collaborating on Interesting Projects.
+* ⚡  I love gaming and writing articles on my free time.
 
 <a href="https://www.github.com/payne680" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/payne680?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/penn_jr4" target="_blank" rel="noreferrer"><img
@@ -39,7 +39,3 @@ src="https://img.shields.io/twitter/follow/penn_jr4?logo=twitter&style=for-the-b
 <a href="http://www.github.com/payne680"><img src="https://github-readme-streak-stats.herokuapp.com/?user=payne680&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/payne680" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payne680&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
